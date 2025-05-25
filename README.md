@@ -6,5 +6,6 @@ Name: Fengrui Zuo
 Position: Applications Engineer
 
 
-<img width="711" alt="image" src="https://github.com/user-attachments/assets/18a495bb-13c6-42fd-b2e2-8df92c170355" />
+<img width="915" alt="image" src="https://github.com/user-attachments/assets/2f95c212-57b6-4f4d-a0fa-05fe17ae6654" />
+
 
